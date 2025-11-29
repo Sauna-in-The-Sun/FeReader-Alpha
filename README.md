@@ -1,3 +1,2 @@
-[README.md]
-FeReader
+# FeReader
 PDF & EPUB Reader
